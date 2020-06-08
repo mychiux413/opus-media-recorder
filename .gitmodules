@@ -1,12 +1,12 @@
 [submodule "lib/opus"]
 	path = lib/opus
-	url = https://git.xiph.org/opus.git
+	url = https://github.com/opus.git
 [submodule "lib/ogg"]
 	path = lib/ogg
-	url = https://git.xiph.org/ogg.git
+	url = https://github.com/ogg.git
 [submodule "lib/speexdsp"]
 	path = lib/speexdsp
-	url = https://git.xiph.org/speexdsp.git
+	url = https://github.com/speexdsp.git
 [submodule "lib/webm"]
 	path = lib/webm
 	url = https://chromium.googlesource.com/webm/libwebm
